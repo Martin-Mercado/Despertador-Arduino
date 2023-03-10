@@ -10,4 +10,4 @@ Se pueden ajustar la hora y los minutos de la alarma mediante el botón izquierd
 
 La función buzz() se encarga de generar el sonido de la alarma y printAlarmTime() imprime la hora de la alarma en la pantalla. La función CheckAlarm() se utiliza para verificar si se debe activar la alarma y, en caso afirmativo, activar el zumbador y mostrar la hora en la pantalla.
 
-Por último, el código incluye un pequeño truco para apagar la pantalla temporalmente y volver a encenderla después de un cierto tiempo.
+Por último, el código incluye un pequeño truco para apagar la pantalla temporalmente y volver a encenderla después de 8 horas, a menos que se precione el boton derecho para encenderla.
